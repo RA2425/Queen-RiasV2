@@ -9,13 +9,13 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = 'robtchin' //ur owner name
 /*--------------------------------------------*/
 
 // Information
 global.botname = 'jarvis' //ur bot name
 global.ownernumber = '242069005819' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.premium = ["242069005819"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
